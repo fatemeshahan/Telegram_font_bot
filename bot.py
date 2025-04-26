@@ -6,7 +6,7 @@ import random
 import re
 
 # توکن ربات تلگرام شما
-TOKEN = "TOKEN_BOT"
+TOKEN = "7831858205:AAFygs2HS50ofTukuGhpzEU-vvEbAFAEr3c"
 
 # دایرکتوری ذخیره فونت‌ها
 FONTS_DIR = "fonts/"
